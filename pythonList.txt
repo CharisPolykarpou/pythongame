@@ -6,3 +6,4 @@ game
 quiz
 shooting
 Action
+mind games
